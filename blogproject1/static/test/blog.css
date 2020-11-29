@@ -1,0 +1,36 @@
+#date{
+color:yellow;
+font-size:12px;
+font-style:italic;
+}
+.content {
+padding:0 0 0 30px;
+width: 60%;
+float: left;
+background:red;
+}
+h1{
+text-align:center;
+border-bottom: 1px solid yellow;
+padding-bottom:10px ;
+}
+.sidebar {
+padding:10px;
+width: 40%;
+float: right;
+background:green;
+}
+body{
+color:white;
+background:red;
+}
+#total{
+color : yellow;
+font-size:50px;
+font-weight:bold;
+}
+#total{
+color : yellow;
+font-size:50px;
+font-weight:bold;
+}
